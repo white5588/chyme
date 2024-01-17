@@ -8,7 +8,7 @@ const Register = () => {
     <div className='w-full h-screen flex justify-center items-center bg-[#963c96] max-sm:w-[100%]  '>
        <div className='w-[95%] h-full flex justify-center items-center  '>
       
-     <div className='w-[350px] h-[600px] flex justify-center items-center bg-white max-sm:w-[100%] max-sm:h-[70%]     shadow-sm border rounded-md flex-col '>
+     <div className='w-[350px] h-[600px] flex justify-center items-center bg-white max-sm:w-[100%] max-sm:h-[70%] h    shadow-sm border rounded-md flex-col '>
      <div className='  w-[200px]  h-[50px] flex justify-center items-center mt-5 '>
         <img src={pics} className='  px-2 py-4 flex justify-center items-center mt-2'/>
       </div>

@@ -11,7 +11,7 @@ const Homscreen = () => {
    
 
 
-<div className='w-full h-screen flex justify-between items-center max-sm:h-[50%]  max-sm:w-[100%] max-sm:block max-sm:flex-col-reverse'>
+<div className='w-full h-screen flex justify-between items-center max-sm:h-[51%]  max-sm:w-[100%] max-sm:block max-sm:flex-col-reverse'>
 
 
 
